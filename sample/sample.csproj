@@ -57,6 +57,8 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="karma\karma.conf.js" />
+    <Content Include="karma\karma.entry.js" />
     <Content Include="package.json" />
     <Content Include="typings.json" />
     <Content Include="tslint.json" />
